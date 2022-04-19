@@ -1,6 +1,6 @@
 <div align="center">
 
-#  🔥⎾ _**JS - NEEEXT 2 - La Loterie**_ ⏋🔥
+#  🔥⎾ _**JS - NEXT 2 - La Loterie**_ ⏋🔥
 
 </div>
 
