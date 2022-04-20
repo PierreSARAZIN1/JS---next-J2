@@ -37,7 +37,7 @@ Dans ce repo, vous trouverez tous les exercice d'entrainement avec JS pour le J2
 
 </div>
  
-- Rentrez les informations demandez pour voir si vous avez gagnés 😉
+- Rentrez les informations demandez pour voir si vous avez gagnés! 😉
  ___
  ___
 
